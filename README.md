@@ -1,7 +1,5 @@
 # CSL7640: Natural Language Understanding
 
-## Assignment 2
-
 This repository contains solutions for:
 
 1. **Problem 1:** Learning Word Embeddings from IIT Jodhpur Data
